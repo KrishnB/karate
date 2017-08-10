@@ -1,0 +1,5 @@
+username: ramana
+password: demo
+grant_type: password
+scope: read
+tenantId: default
